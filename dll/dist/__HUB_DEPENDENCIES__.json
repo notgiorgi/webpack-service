@@ -1,0 +1,62 @@
+{
+  "name": "__HUB_DEPENDENCIES__",
+  "content": {
+    "../node_modules/webpack/buildin/global.js": {
+      "id": 0,
+      "buildMeta": {
+        "providedExports": true
+      }
+    },
+    "../node_modules/query-string/index.js": {
+      "id": 2,
+      "buildMeta": {
+        "providedExports": true
+      }
+    },
+    "../node_modules/strict-uri-encode/index.js": {
+      "id": 3,
+      "buildMeta": {
+        "providedExports": true
+      }
+    },
+    "../node_modules/decode-uri-component/index.js": {
+      "id": 4,
+      "buildMeta": {
+        "providedExports": true
+      }
+    },
+    "../node_modules/split-on-first/index.js": {
+      "id": 5,
+      "buildMeta": {
+        "providedExports": true
+      }
+    },
+    "../node_modules/vue/dist/vue.runtime.esm.js": {
+      "id": 6,
+      "buildMeta": {
+        "exportsType": "namespace",
+        "providedExports": [
+          "default"
+        ]
+      }
+    },
+    "../node_modules/timers-browserify/main.js": {
+      "id": 7,
+      "buildMeta": {
+        "providedExports": true
+      }
+    },
+    "../node_modules/setimmediate/setImmediate.js": {
+      "id": 8,
+      "buildMeta": {
+        "providedExports": true
+      }
+    },
+    "../node_modules/process/browser.js": {
+      "id": 9,
+      "buildMeta": {
+        "providedExports": true
+      }
+    }
+  }
+}
